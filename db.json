@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Amanda",
+      "age": 20,
+      "id": 1,
+      "dob": "03-12-2000",
+      "firstname": "Amanda",
+      "lastname": "Seyfried",
+      "more": {
+        "address_line1": "Flat 8 Louise Court",
+        "address_line2": "12–13 Beauleigh Road",
+        "address_line3": "Southampton",
+        "phone": 63792241528
+      }
+    },
+    {
+      "name": "Demi",
+      "age": 20,
+      "id": 2,
+      "dob": "28-02-2001",
+      "firstname": "Demi",
+      "lastname": "Lovato",
+      "more": {
+        "address_line1": "11313 Elm Street",
+        "address_line2": "Apartment 666",
+        "address_line3": "Albertville",
+        "phone": 6382921286
+      }
+    },
+    {
+      "name": "Rachel",
+      "age": 20,
+      "dob": "26-08-2001",
+      "firstname": "Rachel",
+      "lastname": "McAdams",
+      "more": {
+        "address_line1": "11413 Elm Street",
+        "address_line2": "Apartment 696",
+        "address_line3": "Albertville",
+        "phone": 6382921786
+      },
+      "id": 3
+    }
+  ]
+}
